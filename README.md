@@ -8,6 +8,7 @@ Built an end-to-end inventory analysis dashboard in Power BI for FMCG products u
 ✅ 🧠 Solution Summary
 
 > Developed an interactive Power BI dashboard supported by Excel analysis to address inventory inefficiencies and improve forecast accuracy for FMCG products.
+> Predicted Demand Forecasting for Toothpaste Demand
 
 
 
