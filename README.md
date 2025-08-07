@@ -1,5 +1,6 @@
 # FMCG-Report
 Built an end-to-end inventory analysis dashboard in Power BI for FMCG products using weekly SKU-level sales, inventory, and demand forecast data.
+
 ✅ 📌 Problem Statement (for Project Report / Resume / LinkedIn)
 
 > A leading FMCG company faced challenges with inaccurate demand forecasts and inefficient inventory management, resulting in frequent stockouts, overstocking, and increased holding costs. The absence of data-driven insights into weekly sales patterns, promotions, and SKU performance hindered their ability to optimize working capital and ensure on-shelf availability.
